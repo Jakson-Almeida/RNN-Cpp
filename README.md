@@ -1,1 +1,1 @@
-# RNN-C-
+# RNN in C++
