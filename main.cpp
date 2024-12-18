@@ -6,7 +6,7 @@ using namespace std;
 
 /* 16/09/2022 Biblioteca de Redes Neurais (C++, Arduino)
  * Autor: Almeida, Jakson da R.
- * Contato: jakson.almeida@engenharia.ufjf.br
+ * Contato: jakson.almeida@estudante.ufjf.br
  *
  * Redes Neurais Recorrentes
 */
