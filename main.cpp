@@ -4,8 +4,12 @@
 
 using namespace std;
 
+# MIT License
+# Copyright (c) 2022 [Seu Nome]
+# Consulte o arquivo LICENSE no repositório raiz para obter mais informações.
+
 /* 16/09/2022 Biblioteca de Redes Neurais (C++, Arduino)
- * Autor: Almeida, Jakson da R.
+ * Autor: Almeida, Jakson Almeida
  * Contato: jakson.almeida@estudante.ufjf.br
  *
  * Redes Neurais Recorrentes
