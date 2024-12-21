@@ -93,13 +93,15 @@ Requirements
 
 This library was built using only the following standard C++ headers:
 
+```c++
 #include <iostream>
 #include <iomanip>
 #include <cmath>
+```
 
 It does not depend on any external libraries, ensuring portability and simplicity.
 
-Applications
+## Applications
 
 Embedded Systems: The library is optimized for use on microcontrollers such as Arduino and ESP32.
 
@@ -108,14 +110,14 @@ Lightweight AI Prototyping: Test recurrent neural networks in environments with 
 Custom AI Architectures: Easily define custom deep and recurrent layers for a wide variety of use cases.
 
 
-Author
+# Author
 
 This library was developed by Jakson-Almeida, with all linear algebra and matrix operations implemented from scratch. The design ensures flexibility and efficiency for low-memory environments.
 
-Contribution
+# Contribution
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the library. Let’s make lightweight neural networks accessible to everyone.
 
-License
+# License
 
 This project is licensed under the MIT License.
