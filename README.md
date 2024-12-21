@@ -85,7 +85,7 @@ Installation
 
 Clone the repository into your project:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Jakson-Almeida/RNN-CPP.git
 
 Include the necessary header files in your C++ project, and you’re ready to go.
 
