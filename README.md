@@ -20,9 +20,9 @@ Welcome to the **Recurrent Neural Network Library**, an open-source project writ
 
 ## Supported Activation Functions:
 
-Sigmoid
+- Sigmoid
 
-ReLU
+- ReLU
 
 
 ## External Training: 
@@ -85,7 +85,9 @@ int main()
 
 Clone the repository into your project:
 
-git clone https://github.com/Jakson-Almeida/RNN-CPP.git
+``` bash
+git clone https://github.com/Jakson-Almeida/RNN-Cpp.git
+```
 
 Include the necessary header files in your C++ project, and you’re ready to go.
 
@@ -103,11 +105,11 @@ It does not depend on any external libraries, ensuring portability and simplicit
 
 ## Applications
 
-Embedded Systems: The library is optimized for use on microcontrollers such as Arduino and ESP32.
+- **Embedded Systems:** The library is optimized for use on microcontrollers such as Arduino and ESP32.
 
-Lightweight AI Prototyping: Test recurrent neural networks in environments with limited resources.
+- **Lightweight AI Prototyping:** Test recurrent neural networks in environments with limited resources.
 
-Custom AI Architectures: Easily define custom deep and recurrent layers for a wide variety of use cases.
+- **Custom AI Architectures:** Easily define custom deep and recurrent layers for a wide variety of use cases.
 
 
 # Author
