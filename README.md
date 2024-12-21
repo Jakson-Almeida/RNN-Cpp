@@ -6,15 +6,12 @@ Welcome to the **Recurrent Neural Network Library**, an open-source project writ
 ## Key Features
 
 **Pure C++ Implementation:** All linear algebra and matrix calculations were implemented from scratch, without the use of third-party libraries.
-
 **Dynamic Memory Management:** The library automatically deallocates unused memory, optimizing its use in devices with limited resources.
 
 ## Customizable Architecture:
 
 - Supports N inputs and M outputs.
-
 - Can be configured as a deep network with up to N layers.
-
 - For each layer, M temporal (recurrent) layers can be added, enabling memory and recurrent functionalities.
 
 
