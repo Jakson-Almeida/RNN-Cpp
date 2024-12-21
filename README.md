@@ -81,7 +81,7 @@ int main()
 ```
 
 
-Installation
+## Installation
 
 Clone the repository into your project:
 
@@ -89,7 +89,7 @@ git clone https://github.com/Jakson-Almeida/RNN-CPP.git
 
 Include the necessary header files in your C++ project, and you’re ready to go.
 
-Requirements
+## Requirements
 
 This library was built using only the following standard C++ headers:
 
