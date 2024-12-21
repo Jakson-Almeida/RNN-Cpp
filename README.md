@@ -25,7 +25,9 @@ Sigmoid
 ReLU
 
 
-## External Training: The training process is external to the network. An example neural network was trained using the Particle Swarm Optimization (PSO) algorithm.
+## External Training: 
+
+The training process is external to the network. An example neural network was trained using the Particle Swarm Optimization (PSO) algorithm.
 
 
 ## Example Usage
