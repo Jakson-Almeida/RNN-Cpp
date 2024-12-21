@@ -11,11 +11,11 @@ Welcome to the **Recurrent Neural Network Library**, an open-source project writ
 
 ## Customizable Architecture:
 
-Supports N inputs and M outputs.
+- Supports N inputs and M outputs.
 
-Can be configured as a deep network with up to N layers.
+- Can be configured as a deep network with up to N layers.
 
-For each layer, M temporal (recurrent) layers can be added, enabling memory and recurrent functionalities.
+- For each layer, M temporal (recurrent) layers can be added, enabling memory and recurrent functionalities.
 
 
 ## Supported Activation Functions:
