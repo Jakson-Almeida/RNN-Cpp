@@ -18,7 +18,7 @@ Can be configured as a deep network with up to N layers.
 For each layer, M temporal (recurrent) layers can be added, enabling memory and recurrent functionalities.
 
 
-##Supported Activation Functions:
+## Supported Activation Functions:
 
 Sigmoid
 
