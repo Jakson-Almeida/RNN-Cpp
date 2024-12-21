@@ -1,13 +1,13 @@
 
 # Recurrent Neural Network Library (C++)
 
-Welcome to the Recurrent Neural Network Library, an open-source project written entirely in C++ for implementing and testing Recurrent Neural Networks (RNNs) on resource-constrained environments like microcontrollers (e.g., Arduino and ESP32). This library was designed to be lightweight and efficient, making it ideal for embedded systems with limited memory.
+Welcome to the **Recurrent Neural Network Library**, an open-source project written entirely in C++ for implementing and testing Recurrent Neural Networks (RNNs) on resource-constrained environments like microcontrollers (e.g., Arduino and ESP32). This library was designed to be lightweight and efficient, making it **ideal for embedded systems with limited memory**.
 
 ## Key Features
 
-Pure C++ Implementation: All linear algebra and matrix calculations were implemented from scratch, without the use of third-party libraries.
+**Pure C++ Implementation:** All linear algebra and matrix calculations were implemented from scratch, without the use of third-party libraries.
 
-Dynamic Memory Management: The library automatically deallocates unused memory, optimizing its use in devices with limited resources.
+**Dynamic Memory Management:** The library automatically deallocates unused memory, optimizing its use in devices with limited resources.
 
 ## Customizable Architecture:
 
