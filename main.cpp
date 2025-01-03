@@ -4,9 +4,9 @@
 
 using namespace std;
 
-# MIT License
-# Copyright (c) 2022 Jakson-Almeida
-# Consulte o arquivo LICENSE no repositório raiz para obter mais informações.
+// MIT License
+// Copyright (c) 2022 Jakson-Almeida
+// Consulte o arquivo LICENSE no repositório raiz para obter mais informações.
 
 /* 16/09/2022 Biblioteca de Redes Neurais (C++, Arduino)
  * Autor: Almeida, Jakson Almeida
